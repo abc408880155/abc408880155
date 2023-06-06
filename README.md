@@ -1,4 +1,4 @@
-<h2>Hi! 👋 I'm Abc408880155 (Zemise_)</h2>
+<h2>Hi! 👋 I'm Zemise</h2>
 
 <h2>🧑‍💻 Working on:</h2>
 - Officially: Working in hospital laboratories on projects related to basic life research
@@ -31,7 +31,7 @@ I am a supervising clinical laboratory technician residing in China. I enjoy rol
 
 <h2>📫 How to reach me:</h2>
 
-**abc408880155/abc408880155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zemise/Zemise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
