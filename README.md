@@ -9,8 +9,9 @@
 
 <h2>Previously:</h2>
 
-- Master thesis at the Tumor cytokine: <i>"Pharmacological inhibition of GSK3 promotes TNFα-induced GM-CSF via up-regulation of ERK signaling in nasopharyngeal carcinoma (NPC)"</i> 
-
+- Master thesis at the Tumor cytokine:
+  - <i>"Pharmacological inhibition of GSK3 promotes TNFα-induced GM-CSF via up-regulation of ERK signaling in nasopharyngeal carcinoma (NPC)"</i> 
+  - <i>"STAT3 inhibits IL-1β-induced response via promoting cytoplasmic-nuclear translocation of RNA-binding protein HuR"</i>
 
 - I worked for a year as a clinical examiner in a General Hospital.
 
